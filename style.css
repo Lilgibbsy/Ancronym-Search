@@ -1,1 +1,6 @@
 /* CSS Style Sheet */
+body {
+    margin: auto;
+    width: 600px;
+    text-align: center;
+}
